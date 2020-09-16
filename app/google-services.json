@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1080210078300",
+    "firebase_url": "https://deductive-eye-284006.firebaseio.com",
+    "project_id": "deductive-eye-284006",
+    "storage_bucket": "deductive-eye-284006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080210078300:android:d2b0484c9cc05e2e4c0499",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080210078300-034rj55g2vcmkca2au5s92q2ujs84e5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFxnmcCXssmXNjdpDzx89H-kuNU8shOrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080210078300-034rj55g2vcmkca2au5s92q2ujs84e5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080210078300:android:1e8782135dd137b44c0499",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080210078300-034rj55g2vcmkca2au5s92q2ujs84e5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFxnmcCXssmXNjdpDzx89H-kuNU8shOrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080210078300-034rj55g2vcmkca2au5s92q2ujs84e5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080210078300:android:05d8a016c12c7b994c0499",
+        "android_client_info": {
+          "package_name": "com.example.yumap_tmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080210078300-034rj55g2vcmkca2au5s92q2ujs84e5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFxnmcCXssmXNjdpDzx89H-kuNU8shOrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080210078300-034rj55g2vcmkca2au5s92q2ujs84e5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
