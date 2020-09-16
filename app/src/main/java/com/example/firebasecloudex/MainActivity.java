@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar mProgressBar;
     private String email;
 
+    int item;
     //vars
 
     public MainActivity() {
